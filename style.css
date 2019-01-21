@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: steelblue;
+    font-family: "Anton", sans-serif;
+}
+
+h1 {
+    margin-top: 50px;
+    font-size: 35px;
+}
+
+p {
+    padding-top: 175px;
+    width: 90%;
+    margin: auto;
+    font-size: 20px;
+}
+footer {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 12px;
+}
